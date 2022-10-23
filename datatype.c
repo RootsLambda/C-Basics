@@ -1,6 +1,14 @@
 // File datatype.c
 // Show some data types 
 
+/*-------------Note------------*/
+// 1. Use define constant
+// 2. Number interger
+// 3. Number float
+// 4. Number float double precision
+// 5. Number long interger
+// 6. Number short interger
+// 7. Character type
 #include<stdio.h>
 int main(){
     #define pi 3.1459
