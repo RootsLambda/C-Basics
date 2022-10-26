@@ -9,6 +9,7 @@
 // 5. Number long interger
 // 6. Number short interger
 // 7. Character type
+
 #include<stdio.h>
 int main(){
     #define pi 3.1459
